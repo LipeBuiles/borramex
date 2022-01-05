@@ -1,10 +1,6 @@
 Hola soy el pinche pastel...
 
-<<<<<<< HEAD
-333
-=======
 666
->>>>>>> master
 
 2
 
